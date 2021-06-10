@@ -1,10 +1,14 @@
 # Tic-tact-toe
-Objective: Introduce;
+Objective: 
+
+Introduce
 
 • Event handling
 • Use of Model View Control (MVC) architecture
+
 Description: In this laboratory class, you are expected to implement the classical tick-tact-toe
 game. Specification for is as follows:
+
 • Display a 3x3 matrix of buttons.
 • Each player gets a turns to pick a button which is not selected. If the player selects a
 button already selected the system should ignore that selection and let the user select

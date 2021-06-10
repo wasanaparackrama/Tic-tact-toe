@@ -1,5 +1,6 @@
 # Tic-tact-toe
 Objective: Introduce;
+
 • Event handling
 • Use of Model View Control (MVC) architecture
 Description: In this laboratory class, you are expected to implement the classical tick-tact-toe
